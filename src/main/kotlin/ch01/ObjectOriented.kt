@@ -1,4 +1,4 @@
-package calculatorPractice
+package ch01
 
 fun main(args: Array<String>) {
     val plusCalculator = ObjectOriented(Plus())
